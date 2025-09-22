@@ -1,0 +1,9 @@
+/* src/index.css */
+html, body, #root {
+    margin: 0;
+    padding: 0;
+    background-color: #151515; /* тёмный фон всей страницы */
+    color: #fff;               /* белый цвет текста по умолчанию */
+    min-height: 100%;
+    font-family: 'Roboto', sans-serif;
+}
